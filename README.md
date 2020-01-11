@@ -1,4 +1,4 @@
-# Atelier2
-Collection of code and discussions for Atelier 2
+# FirstUpload
+First Post
 
-Belongs to Dawn Murphy (3167772)
+It's just a p5 helloWorld for sound, becuase I don't usually work with sound, so I want to test it out
