@@ -1,4 +1,3 @@
-# Atelier2
-Collection of code and discussions for Atelier 2
+# ExChanging_Body
 
-Belongs to Dawn Murphy (3167772)
+It's a jackalope
