@@ -1,4 +1,3 @@
-# Atelier2
-Collection of code and discussions for Atelier 2
+# ExChanging_Body_Progress
 
-Belongs to Dawn Murphy (3167772)
+WIP files and photos for the ExChanging Body project
